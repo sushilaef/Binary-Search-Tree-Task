@@ -6,16 +6,18 @@
 
    
    
-  ![image](..%5CROOT.png)
+  ![ROOT](https://user-images.githubusercontent.com/105882117/172233944-09291f9a-7e3d-4507-9804-22b7166ae90a.png)
+
   
 
 - 3'ün sağ dalında 4 bulunur. Sol tarafı ise 1 ile devam eder. 1 ise iki kola ayrılır ve bir taraf 0 diğer taraf ise 2 değerini alır ve Binary Search Tree'nin sol tarafı bu şekilde son bulur.
 
-  ![image](..%5Cleft%20side.png)
+  ![left side](https://user-images.githubusercontent.com/105882117/172234095-8005f78f-0213-4916-8e99-66908f6c5a64.png)
+
 
 - Root'un sağ tarafı 7 ile başlıyordu. 7'nin bir kolu 6 elemanına ayrılır ve burada son bulur, diğer tarafta ise 8 vardır. 8 in sırasında ise 9 elemanı bulunmaktadır.
 
-  ![image](..%5Cbinary%20search%20tree.png)
+  ![binary search tree](https://user-images.githubusercontent.com/105882117/172234133-04bfb60a-3a5b-439d-8a53-1f3363fa31cc.png)
 
   ---
 
